@@ -32,10 +32,21 @@ While alternative learning resources for Go-based command-line interfaces exist,
 ## Fourth Recommendation: "Let Go Further"
 ![](/assets/let_go_further.jpg)
 
+Ricardo Gerardi's book stands as an all-encompassing guide for initiating a promising career in Go's command-line interface domain. With its comprehensive coverage, this book has the potential to be the sole reference, rendering other resources redundant—unless your requirements extend to specific domain-level aspects of your CLI application. For those, you might need supplementary materials. However, the core of building CLIs is thoroughly addressed by Gerardi's work.
+
+However, transitioning to our second recommendation—focused on the realm of crafting Go-based webservers—embodies a more nuanced journey. The same author, extending his expertise, presents "Let's Go Further," a work designed to propel your understanding into the realm of intricate, expansive, and scalable applications. This offering delves into the realm of advanced topics, encompassing caching strategies, meticulous metrics implementation, sophisticated routing mechanisms, bolstered security protocols, and even the complexities of rate limiting.
+
+Let me emphasize: this book isn't a casual read. It's not something you'll breeze through effortlessly. But in terms of usefulness, it's an unparalleled gem. When you delve into its pages, you'll likely be enticed to immerse yourself in its content, emerging with a rock-solid confidence that makes applying for backend engineering roles a tantalizing prospect. That's the kind of transformative impact this book has to offer, particularly if you're aiming to harness the backend prowess of Go.
+
 
 ## Fifth Recommendation: "Concurrency In Go"
 ![](/assets/concurrency.jpg)
+Concurrency stands out as one of Go's flagship features, often touted as its prime selling point. For those truly intent on unraveling the intricacies that underlie this facet, the book I'm about to introduce is indispensable. It takes on the task of proficiently teaching fellow Go developers about the subtleties of Go's concurrency mechanism.
 
+Allow me to clarify further: suppose you've traversed the content of at least three of the previously mentioned books, supplemented by numerous hands-on projects, an exploration of other developers' code, the consumption of YouTube tutorials, and the perusal of miscellaneous Go-related articles. In that case, you're likely to acquire a functional understanding of Go's concurrency through practical experience. However, if your aspirations involve more than mere practical application—such as articulating concepts in seminars or contributing to the creation of libraries—this book assumes paramount importance. It serves as the compass that guides you through the maze of Go's concurrency, eliminating doubts and illuminating best practices, with particular emphasis on the often-elusive `select` keyword.
 
+If your schedule proves tight, consider dedicating time to one or two chapters situated towards the book's conclusion. You're bound to unearth invaluable insights. Even I, myself, confess to not having fully exhausted its contents; it's a testament to the wealth of knowledge encapsulated within.
 ## Sixth Recommendation: "Go Design Patterns
 ![](/assets/go_design_packt.jpg)
+
+This 
