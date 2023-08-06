@@ -71,3 +71,7 @@ Furthermore, let's address the pace of consumption. It's a common pitfall to dev
 Bear in mind that the rabbit hole of continuous book consumption can indeed be a trap. The allure of acquiring knowledge can overshadow the satisfaction of implementing it. Strive for a balanced approach—one that marries learning with practical application. The ultimate goal is not to accumulate knowledge for its own sake but to utilize it in generating meaningful solutions.
 
 Your wisdom in recognizing this pattern is commendable, and your advice holds weight: aspiring developers, take heed. Invest time in both learning and doing, but never forget that the true essence of programming is crafting solutions through coding. It's the fusion of knowledge and action that paves the way for genuine growth and expertise.
+
+## Feedback
+
+Firstly, thank you for getting this far, if you ever want to contact me, reach me via this [email](giwaoluwatobi@gmail.com). I have other books I can recommend to get better or to try more advanced stuff, maybe a next time if you folks still want to hear it. And yes, that first image was produced by [DALL-E2](https://openai.com/dall-e-2), probably the first if it kind (I guess that makes me the author sort of). Bye.
