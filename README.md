@@ -1,19 +1,22 @@
 # The-Way-To-Go
-![](/assets/mascot.jpeg)
+
+![Alternate text](/assets/mascot.jpeg)
 
 Go, whose authentic name is [Go](https://go.dev/doc/faq#go_or_golang) (though the moniker "Golang" is conveniently used), came into existence due to exasperation with prevailing languages and frameworks utilized within Google. Without delving into the exhaustive introductory details, let's swiftly move past those preliminaries. If you're perusing this, chances are you possess a reasonable understanding of Go; however, if that's not the case, I recommend investing around 20 minutes in online research before returning here, as this article holds substantial importance for you. Moreover, I'll dispense with formalities and dive straight into the heart of the matter, opting for a conversational tone. Your continued readership is greatly appreciated.
 
 ## First Recommendation: "Learning Go"
-![](/assets/learning_go.jpg)
+
+![Alternate text](/assets/learning_go.jpg)
 
 Authored by Joe Bodner, if you're delving into Go for the very first time, "Learning Go" should be your initial port of call. Allow me to emphasize this with conviction. Choosing this book will be a decision you won't rue; I wholeheartedly endorse it—indeed, I can't stress it enough. While an alternative option often referred to as the "Go Bible" exists (depicted by the smaller image below), it is important to note that not only is that book dated, but, in my perspective, it is better suited for individuals arriving with a wealth of programming experience, particularly with languages such as C, C++, or Java.
 
 In my journey, transitioning from languages like Python and JavaScript, I fervently advocate for "Learning Go" over the aforementioned alternative. I won't keep saying the same thing, but to help with any doubts, I'll say it again: "Learning Go" is the-way-to-go. Not only does it lucidly present the language, but it also imparts the idiomatic approach to coding—precisely how to proficiently craft code akin to an industry expert. Save yourself the hassle of going through the same trouble I did, sifting through different books. Trust me, begin with this book, it is "the-way-to-Go".
 
-![](/assets/go_bible.jpg)
+![Alternate text](/assets/go_bible.jpg)
 
 ## Second Recommendation: "Let Go"
-![](/assets/let_go.jpg)
+
+![Alternate text](/assets/let_go.jpg)
 
 Go shines unmistakably as the go-to choice for constructing backend systems—ranging from elementary webservers to expansive, intricate microservices (particularly the latter). Hence, it is judicious to envision yourself as a backend engineer when venturing into the realm of Go. Assuming you've delved into at least 8 chapters of "Learning Go," the next logical step is "Let's Go," the paramount guide to initiating your journey into building Go-based web servers.
 
@@ -22,7 +25,8 @@ Allow me to emphasize the sheer excellence of this book. Not only does it facili
 While other options exist, I implore you with the utmost sincerity, to select "Let's Go." I assure you, the decision will be void of regrets. Authored by Alex Edwards.
 
 ## Third Recommendation: "Powerful Command-Line Applications In Go"
-![](/assets/cli.jpg)
+
+![Alternate text](/assets/cli.jpg)
 
 Authored by Ricardo Gerardi, the second most prevalent utilization of Go lies in crafting command-line applications and various forms of tooling. This book adeptly delivers simplicity, conciseness, and efficiency adhering to industry standards. Notably, the book goes above and beyond in its approach to acquainting readers with the language. Thus, comprehending the content poses no significant challenge.
 
@@ -31,7 +35,8 @@ However, what I find particularly captivating and immensely valuable within its 
 While alternative learning resources for Go-based command-line interfaces exist, I wholeheartedly vouch for this book based on my extensive readings. If you're embarking on your Go journey and seeking a comprehensive exploration of command-line intricacies, all conveniently bundled within a single source, this book stands unparalleled. Although I might entertain the notion of interchanging its ranking with "Let's Go," I recommend reserving this book as the third resource to explore.
 
 ## Fourth Recommendation: "Let Go Further"
-![](/assets/let_go_further.jpg)
+
+![Alternate text](/assets/let_go_further.jpg)
 
 Ricardo Gerardi's book stands as an all-encompassing guide for initiating a promising career in Go's command-line interface domain. With its comprehensive coverage, this book has the potential to be the sole reference, rendering other resources redundant—unless your requirements extend to specific domain-level aspects of your CLI application. For those, you might need supplementary materials. However, the core of building CLIs is thoroughly addressed by Gerardi's work.
 
@@ -41,15 +46,18 @@ Let me emphasize: this book isn't a casual read. It is not something you'll bree
 
 
 ## Fifth Recommendation: "Concurrency In Go"
-![](/assets/concurrency.jpg)
+
+![Alternate text](/assets/concurrency.jpg)
 
 Concurrency stands out as one of Go's flagship features, often touted as its prime selling point. For those truly intent on unraveling the intricacies that underlie this facet, the book I'm about to introduce is indispensable. It takes on the task of proficiently teaching fellow Go developers about the subtleties of Go's concurrency mechanism.
 
 Allow me to clarify further: suppose you've traversed the content of at least three of the previously mentioned books, supplemented by numerous hands-on projects, an exploration of other developers' code, the consumption of YouTube tutorials, and the perusal of miscellaneous Go-related articles. In that case, you're likely to acquire a functional understanding of Go's concurrency through practical experience. However, if your aspirations involve more than mere practical application—such as articulating concepts in seminars or contributing to the creation of libraries—this book assumes paramount importance. It serves as the compass that guides you through the maze of Go's concurrency, eliminating doubts and illuminating best practices, with particular emphasis on the often-elusive `select` keyword.
 
 If your schedule proves tight, consider dedicating time to one or two chapters situated toward the book's conclusion. You're bound to unearth invaluable insights. Even I, myself, confess to not having fully exhausted its contents; it is a testament to the wealth of knowledge encapsulated within.
+
 ## Sixth Recommendation: "Go Design Patterns
-![](/assets/go_design_packt.jpg)
+
+![Alternate text](/assets/go_design_packt.jpg)
  
 In the realm of programming, a profound understanding of design patterns holds significant weight. This understanding becomes even more pivotal when you're actively engaged in a Go-centric role—whether that involves professional work, contributing to open-source projects, or constructing extensive applications. Purposeful design isn't just a suggestion; it is a necessity.
 
@@ -57,7 +65,24 @@ Granted, many design patterns are applicable across multiple programming languag
 
 To clarify, I don't necessarily read this book from cover to cover. Instead, I refer to it when the need arises. This approach aligns with my recommendation for you as well. When it comes to design patterns, it is a valuable reference that offers a clear and proficient exploration of the subject matter. While I might not be actively reading it at this moment, its presence as a resource to address specific queries or challenges remains invaluable.
 
-# CONCLUSION
+## Seventh Recommendation: "Go with the Domain
+
+![Alternate text](/assets/go_with_the_domain.png)
+
+Go with the Domain is a book about building modern business applications in Go. It covers topics such as Domain-Driven Design (DDD), Command-Query Responsibility Segregation (CQRS), and Clean Architecture. Furthermore, it covers Tests Architecture,Intermission ,Repository Secure by Design, Setting up infrastructure with Terraform and Running integration tests in the CI/CD pipeline to mention a few. it has helped in building softwares using golang
+
+## Eight Recommendation: "Mastering Go Network Automation
+
+![Alternate text](/assets/mastering_go.jpeg)
+
+Go is a powerful programming language that is well-suited for network
+programming and network automation. Its simplicity, efficiency, and
+scalability make it a popular choice among developers and network
+administrators. With its built-in support for concurrency, efficient garbage
+collector, and comprehensive standard library, Go provides everything that
+developers need.This book provides a one-stop solution for all of your network administration needs, with comprehensive coverage of automation, security, containerization, monitoring, and performance testing.
+
+## CONCLUSION
 
 Let's engage in a candid conversation here. I've immersed myself in extensive reading and possess a genuine passion for learning. While this inclination is indeed commendable, I would like to share a crucial insight: as a developer, it is pivotal not to let the pursuit of knowledge overshadow the practical act of problem-solving and project completion.
 
