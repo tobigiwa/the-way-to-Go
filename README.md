@@ -1,7 +1,7 @@
 # The-Way-To-Go
 ![](/assets/mascot.jpeg)
 
-Go, whose authentic name is [Go](https://go.dev/doc/faq#go_or_golang) (though the moniker "Golang" is conveniently used), came into existence due to exasperation with prevailing languages and frameworks utilized within Google. Without delving into the exhaustive introductory details, let's swiftly move past those preliminaries. If you're perusing this, chances are you possess a reasonable understanding of Go; however, if that's not the case, I recommend investing around 20 minutes in online research before returning here, as this article holds substantial importance for you. Moreover, I'll dispense with formalities and dive straight into the heart of the matter, opting for a conversational tone. Your continued readership is greatly appreciated.
+Go, whose authentic name is [Go](https://go.dev/doc/faq#go_or_golang) (though the moniker "Golang" is conveniently used), came into existence due to exasperation with prevailing languages and frameworks utilized within Google. Without delving into the exhaustive introductory details, let's swiftly move past those preliminaries. If you're perusing this, chances are you possess a reasonable understanding of Go; however, if that's not the case, I recommend investing around 20 minutes in online research before returning here, as this article holds substantial importance for you. Moreover, I'll dispense with formalities and dive straight into the heart of the matter, opting for a conversational tone. Your continued readership is greatly appreciated. This article is also presented on my (Medium)[https://medium.com/@giwaoluwatobi/the-way-to-go-23c0f1308e2] page, clap and follow :+1: .
 
 ## First Recommendation: "Learning Go"
 ![](/assets/learning_go.jpg)
